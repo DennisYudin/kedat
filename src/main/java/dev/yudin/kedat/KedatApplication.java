@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class KedatApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(KedatApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(KedatApplication.class, args);
+  }
 }
